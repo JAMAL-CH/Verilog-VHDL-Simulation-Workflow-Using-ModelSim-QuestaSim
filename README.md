@@ -1,4 +1,4 @@
-# Verilog-VHDL-Simulation-Workflow-Using-ModelSim-QuestaSim
+# HDL-Simulation-Workflow-Using-ModelSim-QuestaSim
 
 ## compilation
 
